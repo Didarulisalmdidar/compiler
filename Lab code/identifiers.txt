@@ -1,0 +1,2 @@
+int a=b+c*d;
+int 5a= a5+d;
